@@ -15,6 +15,5 @@ Kalpesh Nitin Ahire
 
 20 X 20 Map Screen to Window Screen (Centre at [9][10])
 
-x-special/nautilus-clipboard
-copy
-file:///home/kalpesh/Desktop/sceen.png
+![image](https://user-images.githubusercontent.com/69343990/115408762-c4cdde00-a20e-11eb-8977-75e11baf49f5.png)
+
