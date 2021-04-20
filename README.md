@@ -3,11 +3,11 @@
 
 ****Pacman Game****
 
-Using OpenGL and SOIL( Simple OpenGL Image Library)**
+****Using OpenGL and SOIL( Simple OpenGL Image Library)****
 
 Kalpesh Nitin Ahire
 
-**Overview**
+****Overview****
 
 ![image](https://user-images.githubusercontent.com/69343990/115408098-38bbb680-a20e-11eb-8973-4ae3752df63c.png)
 
@@ -17,3 +17,14 @@ Kalpesh Nitin Ahire
 
 ![image](https://user-images.githubusercontent.com/69343990/115408762-c4cdde00-a20e-11eb-8977-75e11baf49f5.png)
 
+****Specifications****
+
+Map[i][j] - stores the array as in map.txt file
+
+Mat[i][j] - stores the array in 0 or -1 or (1,2,3,4,5.....)
+
+0         = Food
+
+-1        = Wall
+
+(1,2,3,4) = To mark all the crossover positions
