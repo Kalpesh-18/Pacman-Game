@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1617901713 source:c:\users\kalpesh\desktop\c programming\project\dsa\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1215431008 c:\users\kalpesh\desktop\c programming\project\dsa\soil.h
+
+1617543407 c:\users\kalpesh\desktop\c programming\project\dsa\pacman.h
+
+1617945883 source:c:\users\kalpesh\desktop\c programming\project\dsa\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1618498683 source:c:\users\kalpesh\desktop\c programming\project\111903038\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1215431008 c:\users\kalpesh\desktop\c programming\project\111903038\soil.h
+
+1617543407 c:\users\kalpesh\desktop\c programming\project\111903038\pacman.h
+
+1618494207 source:c:\users\kalpesh\desktop\c programming\project\111903038\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1618924556 source:c:\users\kalpesh\desktop\c programming\project\111903038\code\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1215431008 c:\users\kalpesh\desktop\c programming\project\111903038\code\soil.h
+
+1618924275 c:\users\kalpesh\desktop\c programming\project\111903038\code\pacman.h
+
+1618924828 source:c:\users\kalpesh\desktop\c programming\project\111903038\code\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+

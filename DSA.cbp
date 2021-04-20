@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DSA" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/DSA" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="C:/users/kalpesh/Desktop/C Programming/PROJECT/DSA/libSOIL.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/DSA" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-static" />
+					<Add library="libSOIL1.a" />
+				</Linker>
+			</Target>
+			<Target title="SOIL">
+				<Option output="bin/SOIL/DSA" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/SOIL" />
+				<Option object_output="obj/SOIL/" />
+				<Option external_deps="C:/users/kalpesh/Desktop/C Programming/soil/Simple OpenGL Image Library/projects/VC9/lib.a;" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="C:/users/kalpesh/Desktop/C Programming/PROJECT/DSA/libSOIL.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+		</Linker>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pacman.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pacman.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
